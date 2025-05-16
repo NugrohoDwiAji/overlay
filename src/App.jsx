@@ -8,7 +8,7 @@ export default function App() {
       {/* center */}
       <div className="flex w-[60%] justify-between">
         {/* logo  team a */}
-        <div className="bg-[url(bg-team.png)] bg-cover h-24 w-24 flex flex-col items-center justify-center">
+        <div className="bg-[url(bg.png)] bg-cover h-24 w-24 flex flex-col items-center justify-center">
           <img
             src="cloud-nine.png"
             alt="LOGO TEAM"
@@ -36,7 +36,7 @@ export default function App() {
         </div>
 
         {/* Logo tem B */}
-        <div className="bg-[url(bg-team.png)] bg-cover h-24 w-24 flex flex-col items-center justify-center">
+        <div className="bg-[url(bg.png)] bg-cover h-24 w-24 flex flex-col items-center justify-center">
           <img
             src="cloud-nine.png"
             alt="LOGO TEAM"
