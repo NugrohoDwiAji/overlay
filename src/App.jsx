@@ -1,7 +1,7 @@
 
 export default function App() {
   return (
-    <div className="bg-[url(gambar.png)] bg-cover h-screen w-screen flex">
+    <div className="bg-transparent h-screen w-screen flex">
       <div className="bg-transparent h-64 w-64 mr-10">
         <img src="" alt="" />
       </div>
